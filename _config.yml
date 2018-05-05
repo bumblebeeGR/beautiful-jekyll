@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://bumblebeeGR.github.io/biasjp"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,25 +14,27 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: BIASJP
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: BIAS Journal of Physics
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About: "about"
+Scope:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
+  Submit Article:"https://bumblebeegr.github.io/BIAS/"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "src="https://78.media.tumblr.com/51a75300d0af2562e431882965775f68/tumblr_p7eza9vAd71r2gxjho1_1280.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -64,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Ali Ovgun
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
